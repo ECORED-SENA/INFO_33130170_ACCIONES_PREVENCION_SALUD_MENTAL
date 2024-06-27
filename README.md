@@ -1,7 +1,7 @@
-# **sena-base-info-2021 v2.0.0**
+# **Acciones de prevención en salud mental**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED-BASE-INFO-2021/](https://ecored-sena.github.io/ECORED-BASE-INFO-2021/)
+[https://ecored-sena.github.io/INFO_33130170_ACCIONES_PREVENCION_SALUD_MENTAL/](https://ecored-sena.github.io/INFO_33130170_ACCIONES_PREVENCION_SALUD_MENTAL/)
 
 #
